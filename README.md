@@ -8,11 +8,14 @@ so that there are more positive suggestions and fewer disappointments on both si
 I hope my memo also serves as an inspiration for other companies who look to acquire 
 the top developers of the world for remote work.
 
+- [Process overview](#process-overview)
 - [Hires for an existing software product](#hires-for-an-existing-software-product)
 - [What is talent and where to find it](#what-is-talent-and-where-to-find-it)
 - [Hiring remote workers and outsourced developers](#hiring-remote-workers-and-outsourced-developers)
+  * [CTO reach out](#cto-reach-out)
 - [Business talk](#business-talk)
   * [Types of offerors](#types-of-offerors)
+  * [Frequently asked questions for offerors](#frequently-asked-questions-for-offerors)
   * [Asking the price](#asking-the-price)
   * [Other factors](#other-factors)
 - [Developer talk](#developer-talk)
@@ -23,8 +26,9 @@ the top developers of the world for remote work.
   * [Decision to hire](#decision-to-hire)
     + [Polite replies and good business practices](#polite-replies-and-good-business-practices)
     + [Always ask for feedback](#always-ask-for-feedback)
+- [Miscellaneous](#miscellaneous)
 
-# The process
+# Process overview
 
 Overview of my process:
 
@@ -101,7 +105,7 @@ my shoreline. Rockstars might not live next door -
 to build a good developer organisation we need to be able to board people from anywhere, 
 no matter what is their background.
 
-# CTO reach out
+## CTO reach out
 
 If you are a talented developer and manager yourself, you are active in the developer
 community forums. You have audience and followship. This makes
@@ -110,9 +114,9 @@ You can find and judge potential candidates yourself, you do not
 need to rely external help. Your incentives to hire
 are aligned with the business.
 
-## Types of offerors
-
 # Business talk
+
+## Types of offerors
 
 When you hiring contractors or employees, you can source developers primarily three ways
 
@@ -369,7 +373,7 @@ they offer me feedback, I will appreciate and see
 if I can do something in return.
 
 
-# Miscancellous
+# Miscellaneous
 
 Table of contents courtesy of [Markdown TOC](https://ecotrust-canada.github.io/markdown-toc/).
 
