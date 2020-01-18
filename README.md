@@ -137,6 +137,9 @@ The offerors, business people usually need to understand the scope of the work.
 There will be frequently asked questions, so it makes sense
 to have frequently pasted answers, like
 
+* We will shortlist at least five different candidates before making a decision and
+  we expect this to take 2-3 weeks after the first assessments and interviews
+
 * The work is for a live, ongoing product, and there is no final delivery or scoped project
 
 * There is an in-house project management and quality assurance	
