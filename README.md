@@ -163,6 +163,15 @@ to have frequently pasted answers, like
   so that people get to know each other and build a better understanding of personalities
 
 * The team is 15 people now, of which 10 work directly on the product as developers or managers
+
+## Evaluating CVs and resumes
+
+I assume all offerors who go to the length to send in resumes
+also understand in this point that I value industry
+expertise. I do not expect to get any CVs that do not match role descriptions. 
+
+But if this somehow happens I will let the offerors know the reason why 
+the background of the candidate is not suitable.
   
 ## Asking the price
 
