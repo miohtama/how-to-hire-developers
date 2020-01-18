@@ -103,6 +103,15 @@ no matter what is their background.
 
 # Business talk
 
+## CTO reach out
+
+If you are a talented developer and manager yourself, you are active in the developer
+community forums. You have audience and followship. This makes
+it easy to reach out for potential offerors how can provide candidates for the work. 
+You can find and judge potential candidates yourself, you do not 
+need to rely external help. Your incentives to hire
+are aligned with the business.
+
 ## Types of offerors
 
 When you hiring contractors or employees, you can source developers primarily three ways
