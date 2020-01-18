@@ -101,9 +101,7 @@ my shoreline. Rockstars might not live next door -
 to build a good developer organisation we need to be able to board people from anywhere, 
 no matter what is their background.
 
-# Business talk
-
-## CTO reach out
+# CTO reach out
 
 If you are a talented developer and manager yourself, you are active in the developer
 community forums. You have audience and followship. This makes
@@ -113,6 +111,8 @@ need to rely external help. Your incentives to hire
 are aligned with the business.
 
 ## Types of offerors
+
+# Business talk
 
 When you hiring contractors or employees, you can source developers primarily three ways
 
